@@ -41,3 +41,6 @@ section, article {
 	align-items: center;
 	justify-content: center;
 }
+pre{
+	max-width: 300px;
+}
