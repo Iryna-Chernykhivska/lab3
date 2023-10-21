@@ -19,10 +19,14 @@ hr{
     width: 100%;
     margin: 10px;
 }
+body{
+	background-color: #9CA3DB;
+}
 
 /* Header */
 .header-wrapper {
 	padding: 15px;
+	background: #454B66;
 }
 .header-wrapper span {
 	font-family: 'Gango', sans-serif;
